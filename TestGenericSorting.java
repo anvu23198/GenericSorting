@@ -41,5 +41,7 @@ public class TestGenericSorting
         srt.sort();
         srt.print2DArray();
         System.out.println();
+        
+        System.out.println();
     }
 }
